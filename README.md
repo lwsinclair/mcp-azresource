@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/tim10002-mcp-azresource-badge.png)](https://mseep.ai/app/tim10002-mcp-azresource)
+
 # Azure Resource MCP Server
 This MCP server provides tools for listing and querying Azure resources directly from any MCP client, allowing you to efficiently browse your Azure infrastructure and analyze costs without leaving your workflow.
 
